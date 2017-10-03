@@ -1,9 +1,9 @@
 <?php
 //DATABASE CONNECTION VARIABLES
-$host = "127.0.0.1:3306"; // Host name
-$username = "jin2099"; // Mysql username
-$password = ""; // Mysql password
-$db_name = "jinweb"; // Database name
+$host = "db.cs.usask.ca";  //"127.0.0.1:3306"; // Host name
+$username = "cmpt370_rdynam"; //"jin2099"; // Mysql username
+$password = "j9mnyOSf1Ewbl8qLngHt"; // Mysql password
+$db_name = "cmpt370_rdynam"; // Database name
 
 //DO NOT CHANGE BELOW THIS LINE UNLESS YOU CHANGE THE NAMES OF THE MEMBERS AND LOGINATTEMPTS TABLES
 

@@ -17,15 +17,15 @@ $admin_email = '';
 
 //EMAIL SETTINGS
 //SEND TEST EMAILS THROUGH FORM TO https://www.mail-tester.com GENERATED ADDRESS FOR SPAM SCORE
-$from_email = 'epi.stat.canada@gmail.com'; //'youremail@domain.com'; //Webmaster email
-$from_name = 'jinweb admin';//'Test Email'; //"From name" displayed on email
+$from_email = 'cmpt37005@gmail.com'; //'youremail@domain.com'; //Webmaster email
+$from_name = 'cmpt370web admin';//'Test Email'; //"From name" displayed on email
 
 //Find specific server settings at https://www.arclab.com/en/kb/email/list-of-smtp-and-pop3-servers-mailserver-list.html
 $mailServerType = 'smtp';
 //IF $mailServerType = 'smtp'
 $smtp_server = 'smtp.gmail.com'; //'smtp.mail.domain.com';
-$smtp_user = 'epi.stat.canada@gmail.com';  //'youremail@domain.com';
-$smtp_pw = 'Pat~0123';//'yourEmailPassword';
+$smtp_user = 'cmpt37005@gmail.com';  //'youremail@domain.com';
+$smtp_pw = 'cmpt370-05';//'yourEmailPassword';
 $smtp_port = 465; //465 for ssl, 587 for tls, 25 for other
 $smtp_security = 'ssl';//ssl, tls or ''
 
